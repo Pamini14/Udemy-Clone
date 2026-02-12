@@ -1,11 +1,25 @@
-# Udemy-Clone
-This project is a front-end clone of the Udemy website built using HTML and CSS.
-It replicates the layout and design of the Udemy homepage.
-CSS Flexbox is used extensively to create structured and responsive layouts.
-Flexbox helps align elements such as navigation bars, course cards, and sections.
-The project includes a responsive navigation bar and multiple course sections.
-Course cards are designed with proper spacing, alignment, and styling.
-The layout adapts smoothly to different screen sizes.
-Semantic HTML elements are used for a clean and organized structure.
-No external frameworks or libraries were used in this project.
-This project strengthened my understanding of HTML, CSS, Flexbox, and responsive design.
+Project Name:
+Clone of Udemy Website
+
+Overview:
+This project is a front-end replica of the Udemy homepage, built entirely using HTML and CSS. The goal was to replicate the layout, design, and structure of Udemy while enhancing my skills in Flexbox, responsive design, and semantic HTML.
+
+Technologies Used:
+HTML5
+CSS3 (Flexbox)
+
+Key Features:
+
+Responsive Navigation Bar: Adapts smoothly to desktops, tablets, and mobile screens.
+Course Sections: Multiple sections showcasing course cards with proper spacing, alignment, and styling.
+Flexbox Layout: Used extensively to structure the layout, align elements, and maintain consistency across sections.
+Semantic HTML: Clean and organized structure for improved readability and accessibility.
+
+Implementation Details:
+Flexbox was used to align navigation items, course cards, banners, and content sections
+Course cards were designed with attention to spacing, alignment, and hover effects.
+Mobile-first approach ensured the site looks good on all devices.
+Learning Outcomes:
+Strengthened understanding of HTML and CSS fundamentals.
+Gained hands-on experience with CSS Flexbox for layout management.
+Developed skills in structuring clean and semantic HTML for maintainable code.
